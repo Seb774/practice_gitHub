@@ -3,7 +3,7 @@ import React from "react";
 const App = () => {
   return (
     <div>
-      <h1>Create React App from Scratch Using Typescript..!!</h1>
+      <h1>Create React App</h1>
     </div>
   );
 };
